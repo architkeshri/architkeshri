@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architkeshri" alt="architkeshri" /></a> </p>
 
 - 📫 How to reach me **architkeshri4@gmail.com**
-
+- 🌱**Competitive Programming Enthusiast** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/architkeshri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="architkeshri" height="30" width="40" /></a>
