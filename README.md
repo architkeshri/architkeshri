@@ -8,6 +8,15 @@
 - 📫 How to reach me **architkeshri4@gmail.com**
 - 🌱**Competitive Programming Enthusiast** 
 <h3 align="left">Connect with me:</h3>
+<h1>Projects</h1>
+<h3><a href= "https://truvalue.herokuapp.com/">TruValue</a> <h3>
+  <p>Tools: HTML, CSS, Django, Postgresql, AWS(S3 bucket), Heroku.<br>
+The system estimates the price of old phones using a constrained based algorithm.
+Features worked on: user registration, user authentication, price evaluation algorithm.</p>
+<h3><a href= "https://chitrkari.herokuapp.com/index.html">Chitrakari</a> <h3>
+  <p>Tools: HTML, CSS </p>
+  <p> A static website that aims to provide information about different types of paintings. </p>
+
 <p align="left">
 <a href="https://linkedin.com/in/architkeshri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="architkeshri" height="30" width="40" /></a>
 <a href="https://instagram.com/not_so_intelligent" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="not_so_intelligent" height="30" width="40" /></a>
