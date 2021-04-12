@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **architkeshri4@gmail.com**
 - 🌱**Competitive Programming Enthusiast** 
-- Currently learning **Express.js**
+- Currently learning **Express.js and Node.js**
 
 <h1>Projects</h1>
 <h3><a href= "https://truvalue.herokuapp.com/">TruValue</a> <h3>
